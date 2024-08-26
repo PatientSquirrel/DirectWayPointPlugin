@@ -1,0 +1,8 @@
+[general]
+name=DirectoryWaypointPlugin
+description=Creates waypoints with associated images from a directory of JSON files.
+version=1.0
+qgisMinimumVersion=3.0
+author=Your Name
+email=your.email@example.com
+
